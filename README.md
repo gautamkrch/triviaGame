@@ -25,10 +25,4 @@ Returns the current balance of the caller.
 2. **Answer Questions:** Users submit their answers using `answerQuestion`.
 3. **Check Balance:** Users can check their earned tokens using `getBalance`.
 
-## Notes
-- No external imports or constructors are used.
-- Answers are hashed to prevent tampering.
-- The reward system grants 10 tokens for each correct answer.
-
-## License
-This project is open-source and available for use and modification under the MIT License.
+## Contract Address : 0xcBeA6103cCC8402F95a886A3b4c633CB467e5d12
